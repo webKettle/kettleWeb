@@ -1,4 +1,4 @@
-效果见仓库：[https://github.com/gumao/web-kettle](https://github.com/webKettle/web-kettle)
+效果见仓库：[https://github.com/webKettle/web-kettle](https://github.com/webKettle/web-kettle)
 
 软件说明
 
